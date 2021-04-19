@@ -2,7 +2,7 @@
   "name": "desafio-desbravador",
   "version": "1.0.0",
   "description": "Projeto para o processo seletivo da empresa Desbravador",
-  "main": "index.js",
+  "main": "./Services/index.js",
   "scripts": {
     "precommit": "npm run lint",
     "test": "test",
